@@ -27,6 +27,9 @@ activate the escape button and complete the game.
 
 [Watch the gameplay video](https://youtu.be/BFYexrjRRMw)
 
+<img width="1728" height="1117" alt="split-circuit_screenshot" src="https://github.com/user-attachments/assets/7cb82bb8-79e6-48af-8836-77a4504133ce" />
+
+
 ## Development
 
 - **Engine:** Unreal Engine
