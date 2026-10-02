@@ -25,7 +25,7 @@ activate the escape button and complete the game.
 
 ## Gameplay Video
 
-[Watch the gameplay video](YOUR_VIDEO_LINK_HERE)
+[Watch the gameplay video](https://youtu.be/BFYexrjRRMw)
 
 ## Development
 
